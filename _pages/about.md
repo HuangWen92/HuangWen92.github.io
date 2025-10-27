@@ -39,13 +39,13 @@ redirect_from:
 21.	禚明 刘乐源 周世杰* 杨鹏 万思敏 黄文; 一种空间信息网络抗毁分析的新方法 2020
 22.	Qiu Shilin, Liu Qihe, Zhou Shijie*, Huang Wen. Adversarial attack and defense technologies in natural language processing: A survey [J]. Neurocomputing, 2022, 492: 278-307 (SCI，3区，IF= 5.719).
 
-    
 会议论文
 ------
 1.	Zikun Zhou, Wen Huang*, Xingyi Wang, Zhishuo Zhang, Zhun Zhang, Jian Peng, Feihu Huang. Improving Federated Domain Generalization through Dynamical Weights Calculated from Data Influences on Global Model Update[C]. proceedings of the 39th Annual AAAI Conference on Artificial Intelligence, 2025 **(CCF A类)**
 2.	Wenzheng Xua, Honglin Mao , Heng Shao , Weifa Liang , Jian Peng , Wen Huang* , Zichuan Xu , Pan Zhou , Jeffrey Xu Yu. An Adaptive Sampling Algorithm for the Top-K Group Betweenness Centrality, proceedings of the 41st IEEE International Conference on Data Engineering 2025. **(CCF A类)**
 3.	Huang Wen, Zhou Shijie, Zhu Tianqing, Liao Yongjian, Wu Chunjiang, Qiu Shilin. Improving laplace mechanism of differential privacy by personalized sampling; proceedings of the 2020 IEEE 19th international conference on trust, security and privacy in computing and communications (TrustCom), F, 2020 [C]. **IEEE(CCF C类)**
 4.	Huang Wen, Zhou Shijie, Liao Yongjian. Improving the Number of Queries Supported by Differentially Private Mechanisms; proceedings of the 2021 IEEE 15th International Conference on Big Data Science and Engineering (BigDataSE), F, 2021 [C]. IEEE.
+
 
 
 项目
@@ -58,14 +58,13 @@ redirect_from:
 3.	面向位置数据的差分隐私数据效用优化 (四川大学—鹏程尚学教育基金项目)
 4.	隐私预算审计方法的通用性增强研究 (四川大学专职博士后研发基金项目)
 
-
-
 参与项目
 ------
 1.	基于视网膜图像技术的DR“既变”状态表征与智能预测及评价研究 **(国家自然科学基金委员会面上项目)**
 2.	材料数据资源共享公益服务系统 **(重点新材料研发及应用国家科技重大专项)**
 3.	大数据隐私保护关键技术研究 **(四川省重大专项)**
 4.	面向移到云计算的加密文件分类算法研究 **(四川省重大专项)**
+
 
 
 获奖情况
